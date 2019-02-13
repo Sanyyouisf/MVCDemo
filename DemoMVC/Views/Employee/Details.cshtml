@@ -1,0 +1,16 @@
+﻿@model DemoMVC.Models.Employee
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+@*incase we use the strongly typed models we don't need ViewBag or ViewData*@
+@*<h2> ID : @ViewBag.EmpDetails.EmployeeId</h2>
+<h2>Name: @ViewBag.EmpDetails.Name</h2>
+<h2>City: @ViewBag.EmpDetails.City</h2>*@
+
+<h3>ID:  @Model.EmployeeId</h3>
+<h3>Name:  @Model.Name</h3>
+<h3>City:  @Model.City</h3>
+

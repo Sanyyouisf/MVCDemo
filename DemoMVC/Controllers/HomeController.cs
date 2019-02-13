@@ -33,6 +33,7 @@ namespace DemoMVC.Controllers
             return View();
         }
 
+    //the default method
         //public ActionResult Contact()
         //{
         //    ViewBag.Message = "Your contact page.";
@@ -40,7 +41,7 @@ namespace DemoMVC.Controllers
         //    return View();
         //}
 
-        //using View bag to display list of countries
+    //using View bag to display list of countries
         //public ActionResult Contact()
         //{
         //    ViewBag.Message = "Your contact page.";
@@ -55,7 +56,7 @@ namespace DemoMVC.Controllers
         //    return View();
         //}
 
-        //using View data to display list of countries
+     //using View data to display list of countries
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
