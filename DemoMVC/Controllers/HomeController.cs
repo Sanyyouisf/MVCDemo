@@ -40,11 +40,27 @@ namespace DemoMVC.Controllers
         //    return View();
         //}
 
+        //using View bag to display list of countries
+        //public ActionResult Contact()
+        //{
+        //    ViewBag.Message = "Your contact page.";
+
+        //    ViewBag.Countries =  new List<string>()
+        //    {
+        //        "Egypt",
+        //        "USA",
+        //        "Canda"
+        //    };
+
+        //    return View();
+        //}
+
+        //using View data to display list of countries
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
 
-            ViewBag.Countries =  new List<string>()
+            ViewData["Countries"]= new List<string>()
             {
                 "Egypt",
                 "USA",

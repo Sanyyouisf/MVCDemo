@@ -6,12 +6,12 @@ using System.Web.Mvc;
 
 namespace DemoMVC.Controllers
 {
-    public class NewController : Controller
+    public class EmployeeController : Controller
     {
-        // GET: New
-        public string Index()
+        // GET: Employee
+        public ActionResult Index()
         {
-            return "Hello from sany";
+            return View();
         }
     }
 }

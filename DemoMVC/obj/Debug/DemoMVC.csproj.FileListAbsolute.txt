@@ -62,7 +62,6 @@ C:\Users\Developer\projects\Test\DemoMVC\DemoMVC\bin\Microsoft.AI.DependencyColl
 C:\Users\Developer\projects\Test\DemoMVC\DemoMVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\Developer\projects\Test\DemoMVC\DemoMVC\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Developer\projects\Test\DemoMVC\DemoMVC\bin\Microsoft.AI.Web.xml
-C:\Users\Developer\projects\Test\DemoMVC\DemoMVC\obj\Debug\DemoMVC.csprojResolveAssemblyReference.cache
 C:\Users\Developer\projects\Test\DemoMVC\DemoMVC\obj\Debug\DemoMVC.dll
 C:\Users\Developer\projects\Test\DemoMVC\DemoMVC\obj\Debug\DemoMVC.pdb
 C:\Users\Developer\projects\Test\DemoMVC\DemoMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
